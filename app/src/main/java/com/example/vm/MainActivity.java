@@ -10,6 +10,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 private ActivityMainBinding activityMainBinding;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,3 +24,4 @@ private ActivityMainBinding activityMainBinding;
         });
     }
 }
+//sadasdasda
